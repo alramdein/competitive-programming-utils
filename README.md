@@ -1,3 +1,3 @@
-Competitive Programming Utils
+# Competitive Programming Utils
 
 Banks of utils algorithm for competitive programming
